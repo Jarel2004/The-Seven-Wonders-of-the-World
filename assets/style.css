@@ -29,7 +29,7 @@ header {
     width: 100%;
     display: flex;
     justify-content: space-between;
-    padding: 0.5rem;
+    padding: 0.5rem 1rem;
     align-items: center;
     background-color: var(--main-color);
     color: white;
