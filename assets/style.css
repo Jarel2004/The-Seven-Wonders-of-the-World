@@ -18,6 +18,7 @@ body {
     justify-content: center;
     width: 100vw;
     background-color: white;
+    flex-direction: column;
 }
 header {
     position: fixed;
