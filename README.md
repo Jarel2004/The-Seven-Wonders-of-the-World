@@ -31,6 +31,7 @@ This website showcases the **Seven Wonders of the World**, featuring their beaut
 
 * **HTML5** – for structuring the content
 * **CSS3** – for styling and layout design
+* **JavaScript(ES6)** - for interactive images
 * **Git & GitHub** – for version control and collaboration
 
 ---
