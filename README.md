@@ -10,10 +10,10 @@ This website showcases the Seven Wonders of the World, featuring their beauty, h
 
 ## 🏗️ Features
 
-* 🌐 Home Page: Introduction to the Seven Wonders and their importance.
-* 🖼️ Gallery: Displays high-quality images of all seven wonders.
-* 📚 Fun Facts: Interesting trivia and global insights about the wonders.
-* 📞 Contact Page: Allows users to connect or submit feedback.
+ 🌐 Home Page: Introduction to the Seven Wonders and their importance.
+ 🖼️ Gallery: Displays high-quality images of all seven wonders.
+ 📚 Fun Facts: Interesting trivia and global insights about the wonders.
+ 📞 Contact Page: Allows users to connect or submit feedback.
 
 ---
 
@@ -31,9 +31,9 @@ This website showcases the Seven Wonders of the World, featuring their beauty, h
 
 ## 🛠️ Technologies Used
 
-* HTML5 – for structuring the content
-* CSS3 – for styling and layout design
-* Git & GitHub – for version control and collaboration
+ HTML5 – for structuring the content
+ CSS3 – for styling and layout design
+ Git & GitHub – for version control and collaboration
 
 ---
 
@@ -61,9 +61,9 @@ code .
 ## 🔗 Editable Source Links
 
 
-* 🌐 Live Website: [View Website](https://jarel2004.github.io/The-Seven-Wonders-of-the-World/)
-* 💾 GitHub Repository: [GitHub Repo](https://github.com/Jarel2004/The-Seven-Wonders-of-the-World)
-* 🖼️ Image Credits: 
+ 🌐 Live Website: [View Website](https://jarel2004.github.io/The-Seven-Wonders-of-the-World/)
+ 💾 GitHub Repository: [GitHub Repo](https://github.com/Jarel2004/The-Seven-Wonders-of-the-World)
+ 🖼️ Image Credits: 
 [The Great Wall of China](https://www.britannica.com/media/1/2267468/97680)
 [Petra](https://www.britannica.com/media/1/2267468/162957), 
 [Christ The Redeemer](https://www.britannica.com/media/1/2267468/159143),
@@ -81,5 +81,5 @@ code .
 
 ---
 
-> *“The world is full of wonders, but it’s up to us to explore them.”*
+> “The world is full of wonders, but it’s up to us to explore them.”
 
