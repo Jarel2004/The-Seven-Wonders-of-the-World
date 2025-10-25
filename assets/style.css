@@ -354,3 +354,53 @@ footer a:hover {
         font-size: 12px;
     }
 }
+/* 📱 For typical mobile devices (like Realme C53, 720px and below) */
+@media (max-width: 720px) {
+  header nav ul {
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+  }
+
+  h1, h2, h3 {
+    font-size: 1.2em;
+    text-align: center;
+  }
+
+  p {
+    font-size: 1em;
+    padding: 0 10px;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+  section {
+    margin: 10px 0;
+  }
+
+  .container {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 320px) {
+  body {
+    font-size: 0.9em;
+  }
+
+  h1 {
+    font-size: 1em;
+  }
+
+  nav a {
+    font-size: 0.8em;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
