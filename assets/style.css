@@ -96,3 +96,16 @@ main div {
     margin: 10px;
     border: 1px solid rgb(0, 0, 0);
 }
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+}
+.img-card h3 {
+    text-align: center;
+}
+.img-card img {
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
