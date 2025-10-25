@@ -36,25 +36,6 @@ This website showcases the **Seven Wonders of the World**, featuring their beaut
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to set up the project locally:
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Jarel2004/The-Seven-Wonders-of-the-World
-
-# 2. Open the project folder
-cd The-Seven-Wonders-of-the-World
-
-# 3. Open in Visual Studio Code
-code .
-
-# 4. Open index.html in your browser to view the website
-```
-
----
-
 ## 🔗 Editable Source Links
 
 * 🌐 **Live Website:** [View Website](https://jarel2004.github.io/The-Seven-Wonders-of-the-World/)
