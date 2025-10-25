@@ -46,7 +46,7 @@ Follow these steps to set up the project locally:
 git clone [https://github.com/Jarel2004/The-Seven-Wonders-of-the-World]
 
 # 2. Open the project folder
-cd seven-wonders-website
+cd The-Seven-Wonders-of-the-World
 
 # 3. Open in Visual Studio Code
 code .
