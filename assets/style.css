@@ -49,7 +49,7 @@ nav ul li a {
 }
 
 main {
-    width: 100vw;
+    width: 100%;
     margin-top: 53px;
     display: flex;
     flex-direction: column;
@@ -101,6 +101,12 @@ main div {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
 }
+.img-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 .img-card h3 {
     text-align: center;
 }
@@ -108,4 +114,10 @@ main div {
     width: 300px;
     border: 1px solid black;
     border-radius: 10px;
+}
+.funfacts {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 1rem;
 }
