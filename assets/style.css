@@ -216,7 +216,7 @@ footer a:hover {
         padding: 1rem;
     }
 }
-@media (max-width: 465px) {
+@media (max-width: 470px) {
     header {
         flex-direction: column;
     }
