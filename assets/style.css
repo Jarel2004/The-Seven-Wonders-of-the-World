@@ -127,3 +127,42 @@ main div {
     text-align: center;
     margin-bottom: 1rem;
 }
+.contact {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    box-shadow: 0px 0px 5px gray;
+    border-radius: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+form p {
+    margin-bottom: 1rem;
+}
+form input {
+    width: 50%;
+    margin: 5px;
+    padding: 0.5rem;
+    border: 1px solid gray;
+    border-radius: 7px;
+}
+#message {
+    padding-bottom: 4rem;
+    
+}
+form button {
+    margin-top: 0.6rem;
+    width: 30%;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 10px;
+    background-color: var(--main-color);
+    color: white;
+}
