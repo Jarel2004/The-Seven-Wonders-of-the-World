@@ -4,11 +4,11 @@ const modalImg = document.getElementById("modalImg");
 const captionText = document.getElementById("caption");
 const closeBtn = document.querySelector(".close");
 
-// Select all images inside .img-card
-const images = document.querySelectorAll(".img-card img");
+// Select all images inside both gallery and places sections
+const allImages = document.querySelectorAll(".img-card img, .place-card img");
 
 // Add click event to each image
-images.forEach(img => {
+allImages.forEach(img => {
   img.addEventListener("click", () => {
     modal.style.display = "block";
     modalImg.src = img.src;
