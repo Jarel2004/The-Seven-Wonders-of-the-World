@@ -195,3 +195,9 @@ footer a {
 footer a:hover {
     text-decoration: none;
 }
+@media (max-width: 425px) {
+    .gallery {
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: repeat(7, 1fr);
+    }
+}
