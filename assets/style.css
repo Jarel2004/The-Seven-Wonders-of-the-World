@@ -168,9 +168,15 @@ form button {
     color: white;
 }
 footer {
-    font-size: 12px;
+    align-items: center;
     padding: 1.5rem;
     border-top: 1px solid gray;
     display: flex;
     justify-content: center;
+}
+footer p {
+    font-size: 12px;
+}
+footer a {
+    font-size: 20px;
 }
