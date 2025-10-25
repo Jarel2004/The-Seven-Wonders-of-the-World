@@ -167,3 +167,10 @@ form button {
     background-color: var(--main-color);
     color: white;
 }
+footer {
+    font-size: 12px;
+    padding: 1.5rem;
+    border-top: 1px solid gray;
+    display: flex;
+    justify-content: center;
+}
