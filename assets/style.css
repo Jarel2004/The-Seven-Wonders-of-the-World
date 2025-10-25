@@ -68,7 +68,7 @@ main h3 {
     font-size: 15px;
 }
 main p, li {
-    font-size: 12px;
+    font-size: 14px;
     color: var(--p-color);
 }
 main div {
